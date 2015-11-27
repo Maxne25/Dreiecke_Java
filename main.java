@@ -1,5 +1,5 @@
 public class main()
 {
-System.out.prinln();
+System.out.prinln("Test");
 
 }
