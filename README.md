@@ -1,1 +1,0 @@
-# Dreiecke_Java
